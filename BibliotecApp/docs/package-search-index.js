@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"es.beatkapo.bibliotecapp","l":"es.beatkapo.bibliotecapp"},{"m":"es.beatkapo.bibliotecapp","l":"es.beatkapo.bibliotecapp.model"}];updateSearchResults();
